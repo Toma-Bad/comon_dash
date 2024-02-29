@@ -1,0 +1,8 @@
+colorscheme cobalt2 
+filetype indent on
+syntax on
+set autoindent
+set number
+set tabstop=4       " Set the width of a tab to 4 spaces
+set shiftwidth=4    " Set the width of an indentation to 4 spaces
+set expandtab       " Convert tabs to space
